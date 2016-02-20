@@ -6,7 +6,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 
 /**
-Designed by Srinivasa
+THis is Checkout BUG FIX
 */
 
 /** Example resource class hosted at the URI path "/myresource"
